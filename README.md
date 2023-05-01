@@ -7,3 +7,9 @@ Penni has been Holyoke's City Historian since 2010.
 Professor Frank Couvares contributed his time to assist the class in better understanding the history of Holyoke.
 We also want to thank Zoe Jacobs for her assistance with course planning and logistics.
 Funding support for the course was provided by the Amherst College Provost's office in addition to support from the Feldman fund.
+
+# Projects
+
+See `Bachelder_Letters` for scans and curated materials from a set of World War II era letters from a Holyoke family.
+
+See `Vega_Newsletters` for scans and curated materials from the Carlos Vega archive.
