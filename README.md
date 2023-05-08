@@ -17,3 +17,5 @@ See https://github.com/STAT210-S23/STAT210-Wistariahurst/tree/main/Vega_Newslett
 # Other materials
 
 See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room for other materials made accessible for the Holyoke Public Library History Room.
+
+Last updated 2023-05-08 by [Nicholas Horton](https://github.com/nicholasjhorton).
