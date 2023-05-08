@@ -10,6 +10,10 @@ Funding support for the course was provided by the Amherst College Provost's off
 
 # Projects
 
-See `Bachelder_Letters` for scans and curated materials from a set of World War II era letters from a Holyoke family.
+See https://github.com/STAT210-S23/STAT210-Wistariahurst/tree/main/Bachelder_Letters for scans and curated materials from a set of World War II era letters from a Holyoke family.
 
-See `Vega_Newsletters` for scans and curated materials from the Carlos Vega archive.
+See https://github.com/STAT210-S23/STAT210-Wistariahurst/tree/main/Vega_Newsletters for scans and curated materials related to newsletters from the Carlos Vega archive.
+
+# Other materials
+
+See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room for other materials made accessible for the Holyoke Public Library History Room.
