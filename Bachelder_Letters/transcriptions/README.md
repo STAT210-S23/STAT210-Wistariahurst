@@ -1,0 +1,1 @@
+This folder includes the text files for each typed letter. The text was extracted from images of the letters using tesseract and saved in TXT files.

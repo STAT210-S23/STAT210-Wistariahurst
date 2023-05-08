@@ -1,0 +1,1 @@
+This folder contains detailed information about best transcription practices.
