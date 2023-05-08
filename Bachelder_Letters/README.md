@@ -10,7 +10,8 @@ Most of the documents are labeled "Year_Month_Day_Location.pdf" For example, a l
 
 There are a few exceptions to this standardized naming. Some telegrams include descriptions in their file name. For example, a valentine's day telegram is named "ND_Valentine_Greeting_by_Western_Union_from_Camp_Hulen_TX.pdf". Another is named "ND_Merry_Christmas_Telegram_from_Palacios_TX.pdf".
 
-In order to extract text from the typed letters, we apply the tesseract R package to conduct optical character recognition (OCR). Tesseract is easily applied with image files, so we first convert the PDF files in the `processed_scans_pdf` to image files, and running tesseract on the image files. The text for each of the typed letters was extracted. The text files are located in the `transcriptions` folder. 
+In order to extract text from the typed letters, we apply the tesseract R package to conduct optical character recognition (OCR). Tesseract is easily applied with image files, so we first converted the PDF files in the `processed_scans_pdf` to image files, and then ran tesseract on the image files. The text for each of the typed letters was extracted. The text files are located in the `transcriptions` folder. 
+
 Future work will need to focus on manually transcribing the handwritten letters. Best practices for manual transcription are described in the `transcription_process` folder.
 
 Lastly, a detailed report of this project and the content of the letters is in the `report` folder.
