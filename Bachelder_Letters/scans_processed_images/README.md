@@ -1,0 +1,1 @@
+This folder contains PNG versions of the PDF documents found in the scans_processed_pdfs folder. Each page of a PDF document is its own image file. Thus, there are multiple files for most of the letters. Each file name ends with a number to indicate the order of that letter's pages.
