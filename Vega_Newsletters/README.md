@@ -1,1 +1,1 @@
-This is a folder which houses scans and curated materials from the Carlos Vega archive, specifically newsletters that he wrote or that were written for organizations that he worked with.
+This is a folder which houses scans and curated materials from the Carlos Vega archive, specifically newsletters that he wrote, edited, and contributed to or that were written for organizations that he worked with.
