@@ -2,6 +2,8 @@ This is a folder which houses scans and curated materials from the Carlos Vega a
 
 See `raw_data` for unprocessed data, i.e. the original pdf scans sent over from Penni organized by newsletter name.
 
+See `newsletter-catalog` for a condensed organized spreadsheet of all relevant newsletters organized by newsletter, date, issue number/title, and box/folder number according to the official finding aid.
+
 See `newsletters` for all relevant newsletters organized into folders by issue. Each folder contains the original scanned newsletter.pdf, screenshots of the individual newsletter pages/columns according to the  the following structure: "B#_F#__NEWSLETTER_ISSUE_col_##.png", as well as the raw text versions of each page/column "B#_F#__NEWSLETTER_ISSUE_col_##.txt_raw" and the final, clean edited text versions denoted by "B#_F#__NEWSLETTER_ISSUE_col_##.txt_clean". The issue number and date, if known, are included in the file names for each newsletter.
 
 
