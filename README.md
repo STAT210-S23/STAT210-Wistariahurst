@@ -1,5 +1,5 @@
 # STAT210-Wistariahurst
-Repository for materials curated by students in STAT210 (Mining the History of Holyoke) based on materials from the Wistariarhurst Museum and Archive
+Repository for materials curated by students in STAT210 (Mining the History of Holyoke) based on materials from the Wistariahurst Museum and Archive (https://wistariahurst.org).
 
 We are enormously appreciative of the support that the class received from Wistariahurst archivist and curator of collections Penni Martorell.
 Penni has been Holyoke's City Historian since 2010.
@@ -18,4 +18,4 @@ See https://github.com/STAT210-S23/STAT210-Wistariahurst/tree/main/Vega_Newslett
 
 See https://github.com/STAT210-S23/STAT210-Holyoke-History-Room for other materials made accessible for the Holyoke Public Library History Room.
 
-Last updated 2023-05-08 by [Nicholas Horton](https://github.com/nicholasjhorton).
+Last updated 2023-05-21 by [Nicholas Horton](https://github.com/nicholasjhorton).
